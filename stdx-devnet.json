@@ -1,0 +1,11 @@
+{
+  "name": "StudentX Devnet Token",
+  "symbol": "STDX",
+  "description": "StudentX STDX development token on Solana Devnet. For testing only; no monetary value and no investment or redemption rights.",
+  "image": "https://raw.githubusercontent.com/noorarora/studentx-token-metadata/main/stdx.png",
+  "external_url": "https://joinstudentx.com",
+  "properties": {
+    "files": [{ "uri": "https://raw.githubusercontent.com/noorarora/studentx-token-metadata/main/stdx.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
